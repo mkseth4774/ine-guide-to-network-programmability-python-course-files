@@ -1,0 +1,431 @@
+209249: Apr 20 2018 04:26:55.951 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209250: Apr 20 2018 04:26:56.952 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209251: Apr 20 2018 04:27:02.678 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209252: Apr 20 2018 04:27:03.674 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209253: Apr 20 2018 04:27:42.637 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209254: Apr 20 2018 04:27:43.643 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209255: Apr 20 2018 04:27:46.207 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209256: Apr 20 2018 04:27:47.209 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209257: Apr 20 2018 04:28:02.571 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209258: Apr 20 2018 04:28:03.578 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209259: Apr 20 2018 04:28:09.340 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209260: Apr 20 2018 04:28:10.342 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209261: Apr 20 2018 04:28:48.639 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209262: Apr 20 2018 04:28:49.640 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209263: Apr 20 2018 04:28:52.194 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209264: Apr 20 2018 04:28:53.195 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209265: Apr 20 2018 04:29:08.589 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209266: Apr 20 2018 04:29:09.596 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209267: Apr 20 2018 04:29:15.112 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209268: Apr 20 2018 04:29:16.113 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209269: Apr 20 2018 04:29:54.090 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209270: Apr 20 2018 04:29:55.091 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209271: Apr 20 2018 04:29:57.807 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209272: Apr 20 2018 04:29:58.809 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209273: Apr 20 2018 04:30:14.041 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209274: Apr 20 2018 04:30:15.042 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209275: Apr 20 2018 04:30:20.768 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209276: Apr 20 2018 04:30:21.769 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209277: Apr 20 2018 04:31:00.496 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209278: Apr 20 2018 04:31:01.497 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209279: Apr 20 2018 04:31:05.414 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209280: Apr 20 2018 04:31:06.415 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209281: Apr 20 2018 04:31:21.642 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209282: Apr 20 2018 04:31:22.643 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209283: Apr 20 2018 04:31:27.283 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209284: Apr 20 2018 04:31:28.285 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209285: Apr 20 2018 04:32:03.173 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209286: Apr 20 2018 04:32:04.175 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209287: Apr 20 2018 04:32:06.844 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209288: Apr 20 2018 04:32:07.845 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209289: Apr 20 2018 04:32:23.093 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209290: Apr 20 2018 04:32:24.094 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209291: Apr 20 2018 04:32:29.652 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209292: Apr 20 2018 04:32:30.653 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209293: Apr 20 2018 04:33:09.731 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209294: Apr 20 2018 04:33:10.733 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209295: Apr 20 2018 04:33:14.015 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209296: Apr 20 2018 04:33:15.016 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209297: Apr 20 2018 04:33:30.384 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209298: Apr 20 2018 04:33:31.386 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209299: Apr 20 2018 04:33:34.668 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209300: Apr 20 2018 04:33:36.026 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209301: Apr 20 2018 04:34:12.267 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209302: Apr 20 2018 04:34:13.269 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209303: Apr 20 2018 04:34:15.990 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209304: Apr 20 2018 04:34:16.992 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209305: Apr 20 2018 04:34:32.197 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209306: Apr 20 2018 04:34:33.198 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209307: Apr 20 2018 04:34:38.725 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209308: Apr 20 2018 04:34:39.726 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209309: Apr 20 2018 04:35:19.192 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209310: Apr 20 2018 04:35:20.194 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209311: Apr 20 2018 04:35:22.747 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209312: Apr 20 2018 04:35:23.749 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209313: Apr 20 2018 04:35:39.153 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209314: Apr 20 2018 04:35:40.155 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209315: Apr 20 2018 04:35:45.838 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209316: Apr 20 2018 04:35:46.840 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209317: Apr 20 2018 04:36:23.841 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209318: Apr 20 2018 04:36:24.843 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209319: Apr 20 2018 04:36:27.438 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209320: Apr 20 2018 04:36:28.440 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209321: Apr 20 2018 04:36:43.771 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209322: Apr 20 2018 04:36:44.772 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209323: Apr 20 2018 04:36:50.367 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209324: Apr 20 2018 04:36:51.368 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209325: Apr 20 2018 04:37:29.419 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209326: Apr 20 2018 04:37:30.420 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209327: Apr 20 2018 04:37:32.974 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209328: Apr 20 2018 04:37:33.975 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209329: Apr 20 2018 04:37:49.343 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209330: Apr 20 2018 04:37:50.344 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209331: Apr 20 2018 04:37:55.860 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209332: Apr 20 2018 04:37:56.862 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209333: Apr 20 2018 04:38:34.770 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209334: Apr 20 2018 04:38:35.772 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209335: Apr 20 2018 04:38:38.488 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209336: Apr 20 2018 04:38:39.489 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209337: Apr 20 2018 04:38:54.731 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209338: Apr 20 2018 04:38:55.733 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209339: Apr 20 2018 04:39:01.411 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209340: Apr 20 2018 04:39:02.413 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209341: Apr 20 2018 04:39:39.881 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209342: Apr 20 2018 04:39:40.888 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209343: Apr 20 2018 04:39:43.452 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209344: Apr 20 2018 04:39:44.453 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209345: Apr 20 2018 04:39:59.821 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209346: Apr 20 2018 04:40:00.823 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209347: Apr 20 2018 04:40:06.585 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209348: Apr 20 2018 04:40:07.586 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209349: Apr 20 2018 04:40:44.892 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209350: Apr 20 2018 04:40:45.894 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209351: Apr 20 2018 04:40:48.452 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209352: Apr 20 2018 04:40:49.454 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209353: Apr 20 2018 04:41:04.827 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209354: Apr 20 2018 04:41:05.839 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209355: Apr 20 2018 04:41:11.570 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209356: Apr 20 2018 04:41:12.571 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209357: Apr 20 2018 04:41:51.057 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209358: Apr 20 2018 04:41:52.063 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209359: Apr 20 2018 04:41:56.384 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209360: Apr 20 2018 04:41:57.385 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209361: Apr 20 2018 04:42:12.769 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209362: Apr 20 2018 04:42:13.770 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209363: Apr 20 2018 04:42:19.533 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209364: Apr 20 2018 04:42:20.534 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209365: Apr 20 2018 04:42:58.469 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209366: Apr 20 2018 04:42:59.470 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209367: Apr 20 2018 04:43:01.987 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209368: Apr 20 2018 04:43:02.989 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209369: Apr 20 2018 04:43:18.404 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209370: Apr 20 2018 04:43:19.405 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209371: Apr 20 2018 04:43:24.942 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209372: Apr 20 2018 04:43:25.944 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209373: Apr 20 2018 04:44:05.100 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209374: Apr 20 2018 04:44:06.102 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209375: Apr 20 2018 04:44:08.681 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209376: Apr 20 2018 04:44:09.683 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209377: Apr 20 2018 04:44:25.051 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209378: Apr 20 2018 04:44:26.052 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209379: Apr 20 2018 04:44:31.804 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209380: Apr 20 2018 04:44:32.805 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209381: Apr 20 2018 04:45:11.653 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209382: Apr 20 2018 04:45:12.654 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209383: Apr 20 2018 04:45:15.333 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209384: Apr 20 2018 04:45:16.335 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209385: Apr 20 2018 04:45:31.587 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209386: Apr 20 2018 04:45:32.589 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209387: Apr 20 2018 04:45:38.309 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209388: Apr 20 2018 04:45:39.311 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209389: Apr 20 2018 04:46:19.091 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209390: Apr 20 2018 04:46:20.093 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209391: Apr 20 2018 04:46:22.646 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209392: Apr 20 2018 04:46:23.648 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209393: Apr 20 2018 04:46:39.021 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209394: Apr 20 2018 04:46:40.028 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209395: Apr 20 2018 04:46:45.706 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209396: Apr 20 2018 04:46:46.707 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209397: Apr 20 2018 04:47:24.191 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209398: Apr 20 2018 04:47:25.193 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209399: Apr 20 2018 04:47:27.746 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209400: Apr 20 2018 04:47:28.748 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209401: Apr 20 2018 04:47:44.116 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209402: Apr 20 2018 04:47:45.117 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209403: Apr 20 2018 04:47:50.885 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209404: Apr 20 2018 04:47:51.886 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209405: Apr 20 2018 04:48:30.985 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209406: Apr 20 2018 04:48:31.987 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209407: Apr 20 2018 04:48:34.551 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209408: Apr 20 2018 04:48:35.552 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209409: Apr 20 2018 04:48:50.920 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209410: Apr 20 2018 04:48:51.921 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209411: Apr 20 2018 04:48:56.483 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209412: Apr 20 2018 04:48:57.485 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209413: Apr 20 2018 04:49:33.673 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209414: Apr 20 2018 04:49:34.675 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209415: Apr 20 2018 04:49:37.349 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209416: Apr 20 2018 04:49:38.350 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209417: Apr 20 2018 04:49:53.592 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209418: Apr 20 2018 04:49:54.594 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209419: Apr 20 2018 04:50:00.110 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209420: Apr 20 2018 04:50:01.111 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209421: Apr 20 2018 04:50:38.962 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209422: Apr 20 2018 04:50:39.979 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209423: Apr 20 2018 04:50:42.501 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209424: Apr 20 2018 04:50:43.503 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209425: Apr 20 2018 04:50:58.871 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209426: Apr 20 2018 04:50:59.872 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209427: Apr 20 2018 04:51:04.591 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209428: Apr 20 2018 04:51:05.593 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209429: Apr 20 2018 04:51:40.916 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209430: Apr 20 2018 04:51:41.918 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209431: Apr 20 2018 04:51:44.639 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209432: Apr 20 2018 04:51:45.641 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209433: Apr 20 2018 04:52:00.877 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209434: Apr 20 2018 04:52:01.879 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209435: Apr 20 2018 04:52:07.405 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209436: Apr 20 2018 04:52:08.407 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209437: Apr 20 2018 04:52:46.971 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209438: Apr 20 2018 04:52:47.972 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209439: Apr 20 2018 04:52:50.536 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209440: Apr 20 2018 04:52:51.538 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209441: Apr 20 2018 04:53:06.900 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209442: Apr 20 2018 04:53:07.902 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209443: Apr 20 2018 04:53:12.484 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209444: Apr 20 2018 04:53:13.486 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209445: Apr 20 2018 04:53:49.350 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209446: Apr 20 2018 04:53:50.356 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209447: Apr 20 2018 04:53:53.025 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209448: Apr 20 2018 04:53:54.027 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209449: Apr 20 2018 04:54:09.290 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209450: Apr 20 2018 04:54:10.291 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209451: Apr 20 2018 04:54:16.048 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209452: Apr 20 2018 04:54:17.050 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209453: Apr 20 2018 04:54:54.896 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209454: Apr 20 2018 04:54:55.897 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209455: Apr 20 2018 04:54:58.450 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209456: Apr 20 2018 04:54:59.452 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209457: Apr 20 2018 04:55:14.809 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209458: Apr 20 2018 04:55:15.811 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209459: Apr 20 2018 04:55:21.411 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209460: Apr 20 2018 04:55:22.412 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209461: Apr 20 2018 04:56:00.635 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209462: Apr 20 2018 04:56:01.637 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209463: Apr 20 2018 04:56:04.348 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209464: Apr 20 2018 04:56:05.349 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209465: Apr 20 2018 04:56:20.612 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209466: Apr 20 2018 04:56:21.614 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209467: Apr 20 2018 04:56:27.140 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209468: Apr 20 2018 04:56:28.141 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209469: Apr 20 2018 04:57:06.831 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209470: Apr 20 2018 04:57:07.833 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209471: Apr 20 2018 04:57:10.533 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209472: Apr 20 2018 04:57:11.535 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209473: Apr 20 2018 04:57:26.750 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209474: Apr 20 2018 04:57:27.752 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209475: Apr 20 2018 04:57:33.352 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209476: Apr 20 2018 04:57:34.353 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209477: Apr 20 2018 04:58:12.382 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209478: Apr 20 2018 04:58:13.384 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209479: Apr 20 2018 04:58:16.063 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209480: Apr 20 2018 04:58:17.065 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209481: Apr 20 2018 04:58:32.317 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209482: Apr 20 2018 04:58:33.319 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209483: Apr 20 2018 04:58:39.070 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209484: Apr 20 2018 04:58:40.072 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209485: Apr 20 2018 04:59:21.672 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209486: Apr 20 2018 04:59:22.673 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209487: Apr 20 2018 04:59:27.067 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209488: Apr 20 2018 04:59:28.069 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209489: Apr 20 2018 04:59:43.321 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209490: Apr 20 2018 04:59:44.323 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209491: Apr 20 2018 04:59:49.802 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209492: Apr 20 2018 04:59:50.803 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209493: Apr 20 2018 05:00:32.519 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209494: Apr 20 2018 05:00:33.520 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209495: Apr 20 2018 05:00:36.954 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209496: Apr 20 2018 05:00:37.956 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209497: Apr 20 2018 05:00:53.282 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209498: Apr 20 2018 05:00:54.283 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209499: Apr 20 2018 05:00:59.967 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209500: Apr 20 2018 05:01:00.968 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209501: Apr 20 2018 05:01:38.646 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209502: Apr 20 2018 05:01:39.648 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209503: Apr 20 2018 05:01:43.323 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209504: Apr 20 2018 05:01:44.325 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209505: Apr 20 2018 05:01:59.567 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209506: Apr 20 2018 05:02:00.568 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209507: Apr 20 2018 05:02:06.131 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209508: Apr 20 2018 05:02:07.133 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209509: Apr 20 2018 05:02:45.099 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209510: Apr 20 2018 05:02:46.101 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209511: Apr 20 2018 05:02:48.817 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209512: Apr 20 2018 05:02:49.818 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209513: Apr 20 2018 05:03:05.066 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209514: Apr 20 2018 05:03:06.067 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209515: Apr 20 2018 05:03:11.814 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209516: Apr 20 2018 05:03:12.815 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209517: Apr 20 2018 05:03:50.944 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209518: Apr 20 2018 05:03:51.945 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209519: Apr 20 2018 05:03:54.499 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209520: Apr 20 2018 05:03:55.500 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209521: Apr 20 2018 05:04:10.900 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209522: Apr 20 2018 05:04:11.901 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209523: Apr 20 2018 05:04:16.505 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209524: Apr 20 2018 05:04:17.501 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209525: Apr 20 2018 05:04:52.715 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209526: Apr 20 2018 05:04:53.716 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209527: Apr 20 2018 05:04:56.275 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209528: Apr 20 2018 05:04:57.276 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209529: Apr 20 2018 05:05:12.623 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209530: Apr 20 2018 05:05:13.625 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209531: Apr 20 2018 05:05:19.387 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209532: Apr 20 2018 05:05:20.389 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209533: Apr 20 2018 05:06:01.915 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209534: Apr 20 2018 05:06:02.916 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209535: Apr 20 2018 05:06:05.512 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209536: Apr 20 2018 05:06:06.513 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209537: Apr 20 2018 05:06:21.839 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209538: Apr 20 2018 05:06:22.841 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209539: Apr 20 2018 05:06:28.530 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209540: Apr 20 2018 05:06:29.531 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209541: Apr 20 2018 05:07:10.318 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209542: Apr 20 2018 05:07:11.320 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209543: Apr 20 2018 05:07:16.401 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209544: Apr 20 2018 05:07:17.402 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209545: Apr 20 2018 05:07:32.765 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209546: Apr 20 2018 05:07:33.766 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209547: Apr 20 2018 05:07:39.523 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209548: Apr 20 2018 05:07:40.525 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209549: Apr 20 2018 05:08:17.322 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209550: Apr 20 2018 05:08:18.323 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209551: Apr 20 2018 05:08:21.039 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209552: Apr 20 2018 05:08:22.041 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209553: Apr 20 2018 05:08:37.293 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209554: Apr 20 2018 05:08:38.295 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209555: Apr 20 2018 05:08:43.816 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209556: Apr 20 2018 05:08:44.817 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209557: Apr 20 2018 05:09:22.569 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209558: Apr 20 2018 05:09:23.570 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209559: Apr 20 2018 05:09:28.247 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209560: Apr 20 2018 05:09:29.249 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209561: Apr 20 2018 05:09:44.459 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209562: Apr 20 2018 05:09:45.461 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209563: Apr 20 2018 05:09:51.774 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209564: Apr 20 2018 05:09:52.775 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209565: Apr 20 2018 05:10:31.371 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209566: Apr 20 2018 05:10:32.372 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209567: Apr 20 2018 05:11:08.938 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209568: Apr 20 2018 05:11:09.940 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209569: Apr 20 2018 05:11:25.177 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209570: Apr 20 2018 05:11:26.178 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209571: Apr 20 2018 05:11:31.930 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209572: Apr 20 2018 05:11:32.932 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209573: Apr 20 2018 05:12:11.590 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209574: Apr 20 2018 05:12:12.591 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209575: Apr 20 2018 05:12:25.159 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209576: Apr 20 2018 05:12:26.161 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209577: Apr 20 2018 05:12:41.377 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209578: Apr 20 2018 05:12:42.378 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209579: Apr 20 2018 05:12:48.093 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209580: Apr 20 2018 05:12:49.095 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209581: Apr 20 2018 05:13:26.464 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209582: Apr 20 2018 05:13:27.465 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209583: Apr 20 2018 05:13:30.144 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209584: Apr 20 2018 05:13:31.146 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209585: Apr 20 2018 05:13:46.388 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209586: Apr 20 2018 05:13:47.389 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209587: Apr 20 2018 05:13:52.952 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209588: Apr 20 2018 05:13:53.954 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209589: Apr 20 2018 05:14:34.033 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209590: Apr 20 2018 05:14:35.035 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209591: Apr 20 2018 05:14:43.912 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209592: Apr 20 2018 05:14:44.913 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209593: Apr 20 2018 05:15:00.134 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209594: Apr 20 2018 05:15:01.136 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209595: Apr 20 2018 05:15:06.929 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209596: Apr 20 2018 05:15:07.931 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209597: Apr 20 2018 05:15:46.437 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209598: Apr 20 2018 05:15:47.439 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209599: Apr 20 2018 05:15:50.160 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209600: Apr 20 2018 05:15:51.161 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209601: Apr 20 2018 05:16:06.372 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209602: Apr 20 2018 05:16:07.374 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209603: Apr 20 2018 05:16:13.089 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209604: Apr 20 2018 05:16:14.101 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209605: Apr 20 2018 05:16:51.265 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209606: Apr 20 2018 05:16:52.266 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209607: Apr 20 2018 05:16:56.906 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209608: Apr 20 2018 05:16:57.908 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209609: Apr 20 2018 05:17:13.286 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209610: Apr 20 2018 05:17:14.288 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209611: Apr 20 2018 05:17:17.570 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209612: Apr 20 2018 05:17:18.849 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209613: Apr 20 2018 05:17:54.839 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209614: Apr 20 2018 05:17:55.841 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209615: Apr 20 2018 05:18:03.008 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209616: Apr 20 2018 05:18:04.009 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209617: Apr 20 2018 05:18:19.372 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209618: Apr 20 2018 05:18:20.374 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209619: Apr 20 2018 05:18:26.131 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209620: Apr 20 2018 05:18:27.132 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209621: Apr 20 2018 05:19:04.501 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209622: Apr 20 2018 05:19:05.502 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209623: Apr 20 2018 05:19:08.218 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209624: Apr 20 2018 05:19:09.220 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209625: Apr 20 2018 05:19:24.451 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209626: Apr 20 2018 05:19:25.453 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209627: Apr 20 2018 05:19:31.210 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209628: Apr 20 2018 05:19:32.211 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209629: Apr 20 2018 05:20:10.220 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209630: Apr 20 2018 05:20:11.221 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209631: Apr 20 2018 05:20:14.682 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209632: Apr 20 2018 05:20:15.688 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209633: Apr 20 2018 05:20:31.051 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209634: Apr 20 2018 05:20:32.053 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209635: Apr 20 2018 05:20:36.808 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209636: Apr 20 2018 05:20:37.810 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209637: Apr 20 2018 05:21:12.415 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209638: Apr 20 2018 05:21:13.417 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209639: Apr 20 2018 05:21:16.132 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209640: Apr 20 2018 05:21:17.134 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209641: Apr 20 2018 05:21:32.339 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209642: Apr 20 2018 05:21:33.341 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209643: Apr 20 2018 05:21:38.909 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209644: Apr 20 2018 05:21:39.911 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209645: Apr 20 2018 05:22:18.412 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209646: Apr 20 2018 05:22:19.413 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209647: Apr 20 2018 05:22:23.167 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209648: Apr 20 2018 05:22:24.169 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209649: Apr 20 2018 05:22:39.296 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209650: Apr 20 2018 05:22:40.297 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209651: Apr 20 2018 05:22:43.537 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209652: Apr 20 2018 05:22:44.859 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209653: Apr 20 2018 05:23:20.298 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209654: Apr 20 2018 05:23:21.299 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209655: Apr 20 2018 05:23:23.900 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209656: Apr 20 2018 05:23:24.901 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209657: Apr 20 2018 05:23:40.264 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209658: Apr 20 2018 05:23:41.266 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209659: Apr 20 2018 05:23:46.823 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209660: Apr 20 2018 05:23:47.825 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209661: Apr 20 2018 05:24:25.073 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209662: Apr 20 2018 05:24:26.059 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209663: Apr 20 2018 05:24:29.535 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209664: Apr 20 2018 05:24:30.536 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209665: Apr 20 2018 05:24:45.868 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209666: Apr 20 2018 05:24:46.869 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209667: Apr 20 2018 05:24:52.422 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209668: Apr 20 2018 05:24:53.423 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209669: Apr 20 2018 05:25:31.977 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209670: Apr 20 2018 05:25:32.978 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209671: Apr 20 2018 05:25:37.131 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209672: Apr 20 2018 05:25:38.132 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209673: Apr 20 2018 05:25:53.495 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209674: Apr 20 2018 05:25:54.496 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209675: Apr 20 2018 05:26:00.018 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up
+209676: Apr 20 2018 05:26:01.019 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to up
+209677: Apr 20 2018 05:26:38.907 utc: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/9, changed state to down
+209678: Apr 20 2018 05:26:39.908 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to down
+209679: Apr 20 2018 05:26:43.033 utc: %LINK-3-UPDOWN: Interface GigabitEthernet0/9, changed state to up

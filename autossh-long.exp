@@ -1,0 +1,22 @@
+#!/usr/bin/expect
+##
+
+spawn /usr/bin/ssh -l tpbonfi 10.14.212.3
+
+set timeout 45
+
+expect "password:" { send "abc123\*\r" }
+expect "6506-13>" { send "ssh -l travis 10.4.1.25\r" }
+expect "Password:" { send "abc123\*\r" }
+expect "7304-3>" { send "ssh -l travis 12.1.16.26\r" }
+expect "Password:" { send "abc123\!\r" }
+expect "7609-1#" { send "ssh -l travis 10.4.5.9\r" }
+expect "Password:" { send "abc123\*\r" }
+
+expect "3560G-5>" { send "enable\r" }
+expect "Password:" { send "abc123\r" }
+
+interact
+
+##
+## End of file...

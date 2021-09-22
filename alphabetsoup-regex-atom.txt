@@ -1,0 +1,17 @@
+a
+ab
+abc
+abcd
+abcde
+abcdef
+abcdefg
+abcdefgh
+abcdefghi
+a
+aa
+aaa
+aaaa
+aaaaa
+aaaaaa
+
+. _ ^ $ + * { } [ ] \ \ | | ( ) ? ? ? \n

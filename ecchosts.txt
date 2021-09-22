@@ -1,0 +1,2 @@
+ecc001,192.168.1.1,admin,cisco
+ecc002,192.168.1.2,admin,cisco

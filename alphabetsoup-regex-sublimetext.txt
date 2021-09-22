@@ -1,0 +1,30 @@
+a
+abbbbbb
+line	with	tabs	dude	ends	here	line with no tabs dude ends here
+Thi is also a line
+\
+Cisco
+cisco 
+juniper is not better than Cisco or ciscos
+\\
+\\\
+If you use \n instead 
+of \\n then maybe 
+\\\n might work too!
+1 2 3 4 5 6
+12 34 56 78 90
+\n \n \\n 
+\t 
+\\t
+
+abc
+abcdddddddddddddd
+abcdefgh
+abcdefghi
+a
+aa
+
+. _ ^ $ + * { } [ ] \ \ | | ( ) ? ? ? \n
+
+
+

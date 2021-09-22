@@ -1,0 +1,5 @@
+print('Please enter an integer: ')
+x = input()
+print(x)
+print('The integer is: ', x)
+print('This object is of data type: ', type(x))

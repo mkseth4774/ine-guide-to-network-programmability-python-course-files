@@ -1,0 +1,57 @@
+          Mac Address Table
+-------------------------------------------
+
+Vlan    Mac Address       Type        Ports
+----    -----------       --------    -----
+ All    0100.0ccc.cccc    STATIC      CPU
+ All    0100.0ccc.cccd    STATIC      CPU
+ All    0180.c200.0000    STATIC      CPU
+ All    0180.c200.0001    STATIC      CPU
+ All    0180.c200.0002    STATIC      CPU
+ All    0180.c200.0003    STATIC      CPU
+ All    0180.c200.0004    STATIC      CPU
+ All    0180.c200.0005    STATIC      CPU
+ All    0180.c200.0006    STATIC      CPU
+ All    0180.c200.0007    STATIC      CPU
+ All    0180.c200.0008    STATIC      CPU
+ All    0180.c200.0009    STATIC      CPU
+ All    0180.c200.000a    STATIC      CPU
+ All    0180.c200.000b    STATIC      CPU
+ All    0180.c200.000c    STATIC      CPU
+ All    0180.c200.000d    STATIC      CPU
+ All    0180.c200.000e    STATIC      CPU
+ All    0180.c200.000f    STATIC      CPU
+ All    0180.c200.0010    STATIC      CPU
+ All    ffff.ffff.ffff    STATIC      CPU
+   9    001b.fe04.ecd9    STATIC      Gi0/8 
+   9    001b.fe05.290f    STATIC      Gi0/5 
+   9    001b.fe05.8238    DYNAMIC     Gi0/10
+   9    001b.fe05.ed6f    STATIC      Gi0/7 
+   9    001b.fe06.f862    STATIC      Gi0/9 
+   9    001d.4ffc.8070    DYNAMIC     Gi0/10
+   9    0026.0b31.48b6    DYNAMIC     Gi0/10
+   9    00e0.7cc9.2d2b    DYNAMIC     Gi0/10
+   9    04a1.5178.1cc6    DYNAMIC     Gi0/10
+   9    3412.98bc.2821    DYNAMIC     Gi0/10
+   9    3c2e.f9e9.059c    DYNAMIC     Gi0/10
+   9    40cb.c0c4.4370    DYNAMIC     Gi0/10
+   9    40cb.c0ea.d5f1    STATIC      Gi0/3 
+   9    4403.a701.ad2a    DYNAMIC     Gi0/10
+   9    4403.a701.aeed    DYNAMIC     Gi0/10
+   9    442b.0387.f01c    DYNAMIC     Gi0/10
+   9    483b.387b.8216    DYNAMIC     Gi0/10
+   9    6886.a737.836f    DYNAMIC     Gi0/10
+   9    80e8.6fd8.3d50    DYNAMIC     Gi0/10
+   9    ac18.264b.9b63    DYNAMIC     Gi0/10
+   9    b083.fe85.c405    DYNAMIC     Gi0/10
+   9    bc83.85aa.008f    DYNAMIC     Gi0/10
+   9    c097.275b.ab51    DYNAMIC     Gi0/10
+   9    c869.cd78.fef3    DYNAMIC     Gi0/10
+   9    e02f.6d37.c88d    STATIC      Gi0/6 
+   9    f40f.2408.5f7a    DYNAMIC     Gi0/10
+   9    f877.b890.0e78    DYNAMIC     Gi0/10
+   9    442b.0387.f01c    DYNAMIC     Gi0/10
+   9    d4ae.527e.bcf3    dynamic     Gi2/36
+   9    D4AE.ABCD.BCF3    dynamic     Gi2/36
+  87    xxxx.yyyy.zzzz    dynamic     Gi2/36
+Total Mac Addresses for this criterion: 52 
